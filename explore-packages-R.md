@@ -1,7 +1,7 @@
 explore-packages-R.R
 ================
 zanetaandrusivova
-Tue Jun 11 10:15:36 2019
+Tue Jun 11 10:21:38 2019
 
 ``` r
 .libPaths()
